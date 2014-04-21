@@ -6,27 +6,31 @@ This is the full repository for all 4 labs for Geometric Modeling Course in OSU 
 The following are the features supported :
 
 * Curves 
-    # Bezier
-    # B-Splines 
-    # NURBS 
-    # Rational Bezier
+    * Bezier
+    * B-Splines 
+    * NURBS 
+    * Rational Bezier
 
 * Surface Generation 
-    # Revolution 
-    # Extrusion 
-    # Sweeping
-    # Lofting
+    * Revolution 
+    * Extrusion 
+    * Sweeping
+    * Lofting
     
 * Surfaces 
-    # Bezier
-    # B-Splines
-    # NURBS
+    * Bezier
+    * B-Splines
+    * NURBS
 
 * Subdivision Algorithm 
-    # Doo-Sabine 
-    # Catmull Clark 
-    # Loop
+    * Doo-Sabine 
+    * Catmull Clark 
+    * Loop
     
 * Curve Reconstruction in 2D
-    # Crust
-    # NN-Crust
+    * Crust
+    * NN-Crust
+
+Rendering : OpenGL 
+GUI : GLUI 
+External Library : GLM, CGAL, Armadillo 
